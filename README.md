@@ -1,5 +1,5 @@
 # psgg-excel-vba-sample
-SYN-G-GEN Excel VBA  Sample
+StateGo Excel VBA  Sample
 
 # Sample
 
